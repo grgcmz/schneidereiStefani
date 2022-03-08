@@ -11,6 +11,6 @@ _Qui sotto troverete il nostro listino prezzi. Per eventuali domande, non esitat
 
 ---
 
-{{< embed-pdf url="../files/preise_schneiderei_stefani.pdf" >}}
+{{< embed-pdf url="./../files/preise_schneiderei_stefani.pdf" >}}
 
 &nbsp;
