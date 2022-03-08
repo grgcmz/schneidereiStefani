@@ -1,5 +1,5 @@
 ---
-title: "Über Giuseppe"
+title: "Über Uns"
 weight: 3
 header_menu: true
 ---
