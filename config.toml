@@ -20,7 +20,7 @@ title = "Schneiderei Stefani"
     description = "Seit 1969"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/thread.png"
+    favicon = "images/favicon32-32.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
